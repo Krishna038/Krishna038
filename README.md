@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishna Verma, @Krishna038
 - 👀 I’m interested in the power of Data and the Mind.
-- 🌱 I’m currently learning and exploring Data Analytics.
+- 🌱 I’m currently learning, exploring Data Analytics.
 - 💞️ I’m looking to collaborate on Data Analytics and Frontend development.
 - 📫 Reach me via LinkedIn - https://www.linkedin.com/in/krishna-verma-801895163
 
